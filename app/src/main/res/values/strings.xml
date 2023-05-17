@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="num1">num1</string>
+    <string name="num2">num2</string>
+    <string name="num_1_required">Num 1 required</string>
+</resources>
